@@ -31,7 +31,7 @@ function Couple() {
                                     data-target="#carouselIndicators"
                                     data-slide-to="2"
                                 ></li>
-                                {/* <li
+                                <li
                                     data-target="#carouselIndicators"
                                     data-slide-to="3"
                                 ></li>
@@ -43,7 +43,7 @@ function Couple() {
                                     data-target="#carouselIndicators"
                                     data-slide-to="5"
                                 ></li>
-                                <li
+                                {/* <li
                                     data-target="#carouselIndicators"
                                     data-slide-to="6"
                                 ></li>
@@ -57,7 +57,7 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom1.jpg"
                                             alt="couple_img"
                                         />
                                     </div>
@@ -66,7 +66,7 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom2.jpg"
                                             alt="couple_img"
                                         />
                                     </div>
@@ -75,7 +75,34 @@ function Couple() {
                                     <div className="img-wrapper">
                                         <img
                                             className="couple-img"
-                                            src="../assets/images/groom.png"
+                                            src="../assets/images/groom3.jpeg"
+                                            alt="couple_img"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="carousel-item">
+                                    <div className="img-wrapper">
+                                        <img
+                                            className="couple-img"
+                                            src="../assets/images/groom4.jpg"
+                                            alt="couple_img"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="carousel-item">
+                                    <div className="img-wrapper">
+                                        <img
+                                            className="couple-img"
+                                            src="../assets/images/groom5.jpg"
+                                            alt="couple_img"
+                                        />
+                                    </div>
+                                </div>
+                                <div className="carousel-item">
+                                    <div className="img-wrapper">
+                                        <img
+                                            className="couple-img"
+                                            src="../assets/images/groom6.jpeg"
                                             alt="couple_img"
                                         />
                                     </div>
